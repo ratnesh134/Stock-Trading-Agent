@@ -19,20 +19,33 @@ This project is an intelligent stock analysis system powered by [CrewAI](https:/
 stock-ai-app/
 │
 ├── agents/
+|
 │ ├── analyst_agent.py # Defines the Financial Analyst Agent
+| |
 │ └── trader_agent.py # Defines the Strategic Trader Agent
 │
+|
 ├── tasks/
+|
 │ ├── analyse_task.py # Task assigned to the analyst agent
+| |
 │ └── trade_task.py # Task assigned to the trader agent
 │
+| 
 ├── tools/
+|
 │ └── stock_research_tool.py # Real-time stock data retrieval using yfinance
+|
 │
 ├── crew.py # CrewAI task-agent orchestration
+|
 ├── main.py # CLI runner for testing without UI
+|
 ├── app.py # Streamlit Web App interface
+|\\\\\\\\\\\\\\\\\\\\
 ├── .env # Environment variables (API keys if needed)
+|
+|
 └── README.md # Project documentation
 
 
@@ -102,9 +115,10 @@ Yahoo Finance API
 Groq for LLMs
 ## Output
 
-[!TSLA}(https://github.com/ratnesh134/Stock-Trading-Agent/blob/master/result-image/Screenshot%20from%202025-07-14%2014-53-38.png)
+![alt text](https://github.com/ratnesh134/Stock-Trading-Agent/blob/master/result-image/Screenshot%20from%202025-07-14%2014-53-38.png)
 
-[!APPL](https://github.com/ratnesh134/Stock-Trading-Agent/blob/master/result-image/Screenshot%20from%202025-07-14%2014-54-23.png)
+
+![alt text](https://github.com/ratnesh134/Stock-Trading-Agent/blob/master/result-image/Screenshot%20from%202025-07-14%2014-54-23.png)
 
 
 
