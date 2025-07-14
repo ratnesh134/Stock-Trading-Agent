@@ -15,7 +15,7 @@ This project is an intelligent stock analysis system powered by [CrewAI](https:/
 ---
 
 ## 🗂️ Project Structure
-
+```
 stock-ai-app/
 │
 ├── agents/
@@ -48,7 +48,7 @@ stock-ai-app/
 |
 └── README.md # Project documentation
 
-
+```
 ---
 
 ## 🧠 Agents Overview
