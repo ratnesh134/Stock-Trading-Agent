@@ -123,4 +123,4 @@ Groq for LLMs
 
 
 ## 📬 Contact
-Built by [Ratnesh Kumar] — feel free to reach out at [Email][ratnesh134@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-10b60587/)
+Built by Ratnesh Kumar — feel free to reach out at [Email][ratnesh134@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ratnesh-kumar-10b60587/)
